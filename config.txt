@@ -1,0 +1,16 @@
+[Hyperparameters]
+attention_span = "3 seconds"
+listening_port = null
+emotional_intelligence = 0.0
+memory_retention = "volatile"
+
+[Target Objects]
+object_1 = "Gaming"
+object_2 = "Cars"
+object_3 = "Absolutely Nothing"
+object_4 = "The Roman Empire"
+
+[Processing]
+multitasking = False
+error_handling = "Ignore"
+response_mode = "Nodding"
